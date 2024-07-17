@@ -47,7 +47,7 @@ do{
     res = res*fnum;
     fnum--;
 }while(fnum>=1)
-console.log("Fact no is ",res)
+console.log("Fact no is ",res) 
 
 console.log("------------------------------------")
 
